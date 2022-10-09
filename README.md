@@ -1,2 +1,2 @@
-# Restaurant-Health-Inspection-Modeling-
+# Restaurant Health Inspection Modeling
 This is a modeling excercise
